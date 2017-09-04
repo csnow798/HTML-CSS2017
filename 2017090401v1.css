@@ -1,0 +1,11 @@
+* {
+  font-family:Georgia;
+}
+/*I should say that this comments is same as the one in visual basic */
+h1,p{
+  color:DarkSlateGray;
+}
+
+p{
+  font-size:18px;
+}
