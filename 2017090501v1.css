@@ -2,3 +2,8 @@ h {
   color: blue;
   background-color: DarkMagenta;
 }
+
+h2 {
+  color: rgb(54, 74, 101);
+  background-color: rgb(23, 108, 224);
+}
